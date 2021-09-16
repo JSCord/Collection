@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ESNext",
+        "outDir": "./src",
+        "esModuleInterop": true,
+        "pretty": true,
+        "strict": true,
+        "declaration": true,
+        "declarationDir": "./src"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
